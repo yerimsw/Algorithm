@@ -1,8 +1,8 @@
 ## BOJ code directory
 
 ### Explanation
-백준 온라인 저지 문제의 C++과 Java 풀이 코드를 포함합니다.
-This repository contains BOJ code written in C++ and Java.
+* 백준 온라인 저지 문제의 C++과 Java 풀이 코드를 포함합니다.
+* This repository contains BOJ code written in C++ and Java.
 ***
 
 ### External Link

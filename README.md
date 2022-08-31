@@ -1,8 +1,8 @@
 ## YerimSW's Algorithm repository
 
 ### Explanation
-온라인 저지 문제의 풀이 코드를 포함합니다.
-This repository contains Online Judge solution code written in C++ and Java.
+* 온라인 저지 문제의 풀이 코드를 포함합니다.
+* This repository contains Online Judge solution code written in C++ and Java.
 ***
 
 ### External Link
